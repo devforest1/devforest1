@@ -10,5 +10,5 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### [[Status & Most Language]]
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devforest1)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devforest1&hide=contribs,prs&show_icons=true&theme=테마)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devforest1&layout=compact)
